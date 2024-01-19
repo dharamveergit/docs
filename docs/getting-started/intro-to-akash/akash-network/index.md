@@ -7,7 +7,7 @@ weight: 3
 
 ---
 
-## Decentralized Compute Marketplace
+## TEst
 
 Akash is an open network that facilitates the secure and efficient buying and selling of computing resources. Purpose-built for public utility, it is fully open-source with an active community of contributors.
 
