@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with: 
-          repository: akash_test_pages
+          repository: dharamveergit/akash_test_pages
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
           submodules: true
 
