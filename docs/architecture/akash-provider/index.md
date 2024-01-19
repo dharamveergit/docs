@@ -6,7 +6,7 @@ linkTitle: "Akash Provider"
 weight: 3
 ---
 
-Akash Providers play a pivotal role in the Akash Network by utilizing the [Akash Provider software](https://github.com/akash-network/provider), enabling them to effectively manage resources, submit bids, and interact with users. This section discusses the key components and responsibilities of Akash Providers.
+Akash Providers pljkay a pivotal role in the Akash Network by utilizing the [Akash Provider software](https://github.com/akash-network/provider), enabling them to effectively manage resources, submit bids, and interact with users. This section discusses the key components and responsibilities of Akash Providers.
 
 ### Key Components
 
