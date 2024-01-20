@@ -6,7 +6,7 @@ title: "Akash Node CLI Build"
 linkTitle: "Akash Node CLI Build"
 ---
 
-We would want our own Akash node when we have one of the following needs:
+We would want our own Akash node whenwe have one of the following needs:
 
 * _**Akash Validator**_ - a full Akash Node is a prerequisite step to run a validator&#x20;
 * _**Akash Provider**_ - a dedicated Akash Node is recommended for providers&#x20;
